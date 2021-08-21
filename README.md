@@ -1,4 +1,4 @@
-# graph-neural-network
+# Graph-Neural-Network
 **Dependencies**
 
 Python 3.8.5. 
